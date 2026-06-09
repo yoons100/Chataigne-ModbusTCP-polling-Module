@@ -1,4 +1,4 @@
-[![Module](https://img.shields.io/badge/Module-for%20Chataigne-ffa200)](https://benjamin.kuperberg.fr/chataigne/en) ![Platform](https://img.shields.io/badge/platform-MacOS%20%7C%20Windows%20%7C%20Linux-6d9fba) [![Release](https://img.shields.io/badge/Release-V.7-fc1ba6)](https://github.com/yoons100/Chataigne-ModbusTCP-polling-Module/releases) [![License](https://img.shields.io/github/license/yoons100/Chataigne-ModbusTCP-polling-Module)](https://github.com/yoons100/Chataigne-ModbusTCP-polling-Module/blob/main/LICENSE)
+[![Module](https://img.shields.io/badge/Module-for%20Chataigne-ffa200)](https://benjamin.kuperberg.fr/chataigne/en) ![Platform](https://img.shields.io/badge/platform-MacOS%20%7C%20Windows%20%7C%20Linux-6d9fba) [![Release](https://img.shields.io/badge/Release-V.7-fc1ba6)](https://github.com/yoons100/Chataigne-ModbusTCP-polling-Module/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/yoons100/Chataigne-ModbusTCP-polling-Module/blob/main/LICENSE)
 # Chataigne - ModbusTCP polling - Module
 
 This module enables Modbus TCP in Chataigne and includes a polling function.  
